@@ -1,0 +1,19 @@
+label {
+  font-weight: bold;
+  margin-right: 1em;
+}
+.app {
+  margin-top: 2em;
+  margin-left: 1em;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  gap: 1em;
+}
+
+button {
+  margin-top: 1em;
+}
